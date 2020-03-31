@@ -1,6 +1,6 @@
 # worldclockapp
 
-This is a simple worldTimeCLock App made in Flutter. To fetch Time datat i have used http://worldtimeapi.org/ API which is free to use.
+This is a simple worldTimeCLock App made in Flutter. To fetch Time data i have used http://worldtimeapi.org/ API which is free to use.
 
 ## Getting Started
 
